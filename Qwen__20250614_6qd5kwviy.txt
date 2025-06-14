@@ -1,0 +1,14 @@
+ARKE SITE - INSTRUÇÕES
+
+Este é um site responsivo e moderno para a ARKE Engenharia & Construção.
+Você pode hospedá-lo gratuitamente no GitHub Pages seguindo as instruções abaixo.
+
+PASSOS PARA HOSPEDAR NO GITHUB:
+1. Acesse https://github.com 
+2. Crie uma conta ou faça login
+3. Crie um novo repositório público chamado "arke.github.io"
+4. Envie todos os arquivos deste ZIP para lá
+5. Acesse Settings > Pages > Source > selecione a branch main
+6. Seu site estará disponível em: https://seu-usuario.github.io/arke.github.io/ 
+
+Para o formulário funcionar, use um serviço como Formspree ou Google Forms.
